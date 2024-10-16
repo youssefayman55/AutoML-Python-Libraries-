@@ -8,10 +8,17 @@ Instead of manually experimenting with various algorithms and their hyperparamet
 These libraries vary in their approach to automating the machine learning pipeline, which includes data preprocessing, feature engineering, model selection, and hyperparameter tuning. They aim to make machine learning more accessible and accelerate the development of models.
 
 Top 7 AutoML Python Libraries : 
+
 1- H2O AutoML
+
 2- PyCaret
+
 3- Auto-sklearn
+
 4- Lazy classifier 
+
 5- TPOT
+
 6- Autokeras
+
 7- FLAML
