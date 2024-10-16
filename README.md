@@ -1,5 +1,6 @@
 # AutoML-Python-Libraries
 What Is AutoML in Python?
+
 AutoML, or Automated Machine Learning, simplifies the process of applying machine learning to real-world problems. It automates the tedious process of selecting and optimizing machine learning models, eliminating the need for extensive domain knowledge.
 
 Instead of manually experimenting with various algorithms and their hyperparameters, practitioners can use AutoML tools to find optimal solutions more efficiently. Python, being a leading programming language in data science and machine learning, offers several AutoML libraries.
